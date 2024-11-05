@@ -23,8 +23,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/SEO-4B8BBE?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/AI-0078D4?style=for-the-badge&logo=ai&logoColor=white" alt="AI" />
 </div>
 
 ---
